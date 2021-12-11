@@ -98,7 +98,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ ᴀᴅᴅ sᴋʏᴢᴜ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ​ ➗", url="t.me/zyroscopebot?startgroup=new"),
+            text="➗ ᴀᴅᴅ ᴢʏʀᴏ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ​ ➗", url="t.me/zyroscopebot?startgroup=new"),
     ],
 ]
 
